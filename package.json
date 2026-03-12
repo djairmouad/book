@@ -14,7 +14,6 @@
     "@react-three/fiber": "^9.5.0",
     "@tailwindcss/vite": "^4.2.1",
     "@vuvandinh203/react-flipbook": "^1.0.2",
-    "3d-book": "^0.2.0",
     "framer-motion": "^12.35.2",
     "framer-motion-3d": "^12.4.13",
     "i18next": "^25.8.18",
