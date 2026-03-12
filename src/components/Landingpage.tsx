@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect, useCallback } from "react";
+import { useState, useRef, useEffect} from "react";
 import { motion, useInView, AnimatePresence } from "framer-motion";
 import { useTranslation } from "react-i18next";
 import {
@@ -379,7 +379,7 @@ function HeroBook({ dk }: { dk: boolean }) {
    ═══════════════════════════════════════════════════ */
 export default function LandingPage() {
   const { t, i18n } = useTranslation();
-  const { theme, dk, toggle } = useTheme();
+  const {  dk, toggle } = useTheme();
   const isRtl = i18n.language === "ar";
 
   const [scrolled, setScrolled] = useState(false);
