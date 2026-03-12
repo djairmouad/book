@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "home": "Home",
+    "howItWorks": "How It Works",
+    "books": "Books",
+    "features": "Features",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "startNow": "Start Now"
+  },
+  "hero": {
+    "badge": "Independent Authors Platform",
+    "title": "Your Book Deserves",
+    "titleHighlight": "to Be Read",
+    "subtitle": "Waraka is the platform that gives independent authors the space to publish their books and reach thousands of readers. Publish, sell, and thrive.",
+    "authorCta": "I'm an Author, I Want to Publish",
+    "browseCta": "Browse Books",
+    "stats": {
+      "books": "Books Published",
+      "authors": "Independent Authors",
+      "readers": "Active Readers"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works?",
+    "subtitle": "Four simple steps to publish your book and reach readers",
+    "steps": {
+      "1": {
+        "title": "Create Your Account",
+        "description": "Sign up as an author and create your profile in minutes."
+      },
+      "2": {
+        "title": "Add Your Book",
+        "description": "Add book cover, summary, publication year, and price. Simple and fast."
+      },
+      "3": {
+        "title": "Review & Approval",
+        "description": "Our team reviews and approves your book for publication on the platform."
+      },
+      "4": {
+        "title": "Start Selling",
+        "description": "Your book is now available to readers. Receive orders and track your sales."
+      }
+    }
+  },
+  "catalog": {
+    "title": "Discover Latest Releases",
+    "subtitle": "A diverse collection of books written by passionate independent authors",
+    "viewAll": "View All Books"
+  },
+  "features": {
+    "title": "Why Waraka?",
+    "subtitle": "We provide everything you need to publish your book and manage your sales with ease",
+    "list": {
+      "shipping": {
+        "title": "Flexible Shipping Options",
+        "description": "Choose between depositing copies with the platform or shipping yourself. You decide what works for you."
+      },
+      "commission": {
+        "title": "Fair Commission",
+        "description": "We take a small commission on each sale to ensure platform sustainability and development."
+      },
+      "community": {
+        "title": "Author Community",
+        "description": "Join a community of independent writers and share your experience with others."
+      },
+      "reach": {
+        "title": "Wider Reach",
+        "description": "Showcase your book to thousands of readers and get the exposure you deserve."
+      },
+      "security": {
+        "title": "Safe & Trusted Environment",
+        "description": "Secure platform to protect your rights and ensure a comfortable buying experience for readers."
+      },
+      "interface": {
+        "title": "Easy-to-Use Interface",
+        "description": "Simple and modern design makes adding books and managing sales easy for everyone."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What They Say About Us",
+    "subtitle": "Reviews from authors and readers who chose Waraka"
+  },
+  "cta": {
+    "title": "Ready to Publish Your Book?",
+    "subtitle": "Join the Waraka community today and start your journey in independent publishing.",
+    "button": "Sign Up Now for Free"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have a question or want to join? We're here to help",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "Oran, Algeria",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email",
+      "emailPlaceholder": "example@email.com",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here...",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "An Algerian platform supporting independent authors in publishing and selling their books.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "follow": "Follow Us",
+    "links": {
+      "home": "Home",
+      "books": "Books",
+      "authors": "Authors",
+      "about": "About Us",
+      "faq": "FAQ",
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy",
+      "contact": "Contact Us",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "Twitter"
+    },
+    "copyright": "All rights reserved."
+  }
+}

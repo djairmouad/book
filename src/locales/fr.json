@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "howItWorks": "Comment ça marche",
+    "books": "Livres",
+    "features": "Caractéristiques",
+    "testimonials": "Témoignages",
+    "contact": "Contact",
+    "startNow": "Commencer"
+  },
+  "hero": {
+    "badge": "Plateforme des auteurs indépendants",
+    "title": "Votre livre mérite",
+    "titleHighlight": "d'être lu",
+    "subtitle": "Waraka est la plateforme qui donne aux auteurs indépendants l'espace pour publier leurs livres et atteindre des milliers de lecteurs. Publiez, vendez et prospérez.",
+    "authorCta": "Je suis auteur, je veux publier",
+    "browseCta": "Parcourir les livres",
+    "stats": {
+      "books": "Livres publiés",
+      "authors": "Auteurs indépendants",
+      "readers": "Lecteurs actifs"
+    }
+  },
+  "howItWorks": {
+    "title": "Comment ça marche ?",
+    "subtitle": "Quatre étapes simples pour publier votre livre et atteindre les lecteurs",
+    "steps": {
+      "1": {
+        "title": "Créez votre compte",
+        "description": "Inscrivez-vous en tant qu'auteur et créez votre profil en quelques minutes."
+      },
+      "2": {
+        "title": "Ajoutez votre livre",
+        "description": "Ajoutez la couverture, le résumé, l'année de publication et le prix. Simple et rapide."
+      },
+      "3": {
+        "title": "Révision et approbation",
+        "description": "Notre équipe examine et approuve votre livre pour publication sur la plateforme."
+      },
+      "4": {
+        "title": "Commencez à vendre",
+        "description": "Votre livre est maintenant disponible pour les lecteurs. Recevez les commandes et suivez vos ventes."
+      }
+    }
+  },
+  "catalog": {
+    "title": "Découvrez les dernières publications",
+    "subtitle": "Une collection diversifiée de livres écrits par des auteurs indépendants passionnés",
+    "viewAll": "Voir tous les livres"
+  },
+  "features": {
+    "title": "Pourquoi Waraka ?",
+    "subtitle": "Nous fournissons tout ce dont vous avez besoin pour publier votre livre et gérer vos ventes facilement",
+    "list": {
+      "shipping": {
+        "title": "Options d'expédition flexibles",
+        "description": "Choisissez entre déposer des exemplaires sur la plateforme ou expédier vous-même. Vous décidez ce qui vous convient."
+      },
+      "commission": {
+        "title": "Commission équitable",
+        "description": "Nous prenons une petite commission sur chaque vente pour assurer la pérennité et le développement de la plateforme."
+      },
+      "community": {
+        "title": "Communauté d'auteurs",
+        "description": "Rejoignez une communauté d'écrivains indépendants et partagez votre expérience avec d'autres."
+      },
+      "reach": {
+        "title": "Portée plus large",
+        "description": "Présentez votre livre à des milliers de lecteurs et obtenez la visibilité que vous méritez."
+      },
+      "security": {
+        "title": "Environnement sûr et fiable",
+        "description": "Plateforme sécurisée pour protéger vos droits et garantir une expérience d'achat confortable pour les lecteurs."
+      },
+      "interface": {
+        "title": "Interface facile à utiliser",
+        "description": "Un design simple et moderne rend l'ajout de livres et la gestion des ventes facile pour tous."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Ce qu'ils disent de nous",
+    "subtitle": "Avis des auteurs et lecteurs qui ont choisi Waraka"
+  },
+  "cta": {
+    "title": "Prêt à publier votre livre ?",
+    "subtitle": "Rejoignez la communauté Waraka aujourd'hui et commencez votre voyage dans l'édition indépendante.",
+    "button": "Inscrivez-vous gratuitement"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Vous avez une question ou vous voulez nous rejoindre ? Nous sommes là pour vous aider",
+    "email": "Email",
+    "phone": "Téléphone",
+    "address": "Adresse",
+    "addressValue": "Oran, Algérie",
+    "form": {
+      "name": "Nom complet",
+      "namePlaceholder": "Entrez votre nom",
+      "email": "Email",
+      "emailPlaceholder": "example@email.com",
+      "message": "Message",
+      "messagePlaceholder": "Écrivez votre message ici...",
+      "send": "Envoyer le message"
+    }
+  },
+  "footer": {
+    "description": "Une plateforme algérienne soutenant les auteurs indépendants dans la publication et la vente de leurs livres.",
+    "quickLinks": "Liens rapides",
+    "support": "Support",
+    "follow": "Suivez-nous",
+    "links": {
+      "home": "Accueil",
+      "books": "Livres",
+      "authors": "Auteurs",
+      "about": "À propos",
+      "faq": "FAQ",
+      "terms": "Conditions d'utilisation",
+      "privacy": "Politique de confidentialité",
+      "contact": "Contactez-nous",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "Twitter"
+    },
+    "copyright": "Tous droits réservés."
+  }
+}
